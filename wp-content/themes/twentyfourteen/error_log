@@ -1,0 +1,3 @@
+[08-Apr-2016 19:41:32 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/shawnco3/public_html/gr8spots/wp-content/themes/twentyfourteen/404.php on line 10
+[21-May-2016 05:02:05 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/shawnco3/public_html/gr8spots/wp-content/themes/twentyfourteen/404.php on line 10
+[22-May-2016 12:16:55 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/shawnco3/public_html/gr8spots/wp-content/themes/twentyfourteen/404.php on line 10

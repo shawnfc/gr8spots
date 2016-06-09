@@ -1,0 +1,1 @@
+[23-Jul-2015 16:04:11 UTC] PHP Fatal error:  Call to undefined function untrailingslashit() in /home5/shawnco3/public_html/gr8spots/wp-includes/option.php on line 110
